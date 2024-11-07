@@ -1,1 +1,1 @@
-# hopeminded-server
+Documentation to be added soon!
